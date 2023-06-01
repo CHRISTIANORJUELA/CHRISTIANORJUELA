@@ -1,5 +1,9 @@
 ### Hi I am Christián 👋
 
+<p align="center">
+  <img width="460" height="300" src="https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/">
+</p>
+
 ![Saludo](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/dbb20dae-1996-442b-bc2a-46ec2494309f)
 
 ### Who I am: 
