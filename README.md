@@ -1,7 +1,7 @@
 ### Hi I am Christián 👋
 
 <p align="center">
- ![Saludo](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/dbb20dae-1996-442b-bc2a-46ec2494309f)
+ <img src="https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/dbb20dae-1996-442b-bc2a-46ec2494309f" alt="Sublime's custom image"/>
 </p>
 
 ![Saludo](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/dbb20dae-1996-442b-bc2a-46ec2494309f)
