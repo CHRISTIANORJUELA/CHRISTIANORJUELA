@@ -6,7 +6,6 @@
 - I am a guy who likes to program and solve common problems that can be solved through programming. I also like challenges like learning a new language or a new programming language.
 
 
-![MyImagen](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/afb6d9dd-7eee-4b4e-8670-0af52bac296e)
 
 
 
@@ -23,7 +22,9 @@
 
 - 👯 I’m looking to collaborate on **software development company**
 
-<h3 align="left">Connect with me:</h3>
+
+![MyImagen](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/afb6d9dd-7eee-4b4e-8670-0af52bac296e)
+
 <p align="left">
 </p>
 
