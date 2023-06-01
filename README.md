@@ -3,6 +3,8 @@
 ### Who I am: 
 - I am a guy who likes to program and solve common problems that can be solved through programming. I also like challenges like learning a new language or a new programming language.
 
+![MyImagen](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/e1e4a381-6c78-4f58-87ea-bc3b2ef3885d)
+
 ### You can find me 🌎
 
 - corjuela1030@cue.edu.co
