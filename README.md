@@ -1,5 +1,7 @@
 ### Hi I´am Christián 👋
 
+![Saludo](https://github.com/CHRISTIANORJUELA/CHRISTIANORJUELA/assets/103010788/dbb20dae-1996-442b-bc2a-46ec2494309f)
+
 ### Who I am: 
 - I am a guy who likes to program and solve common problems that can be solved through programming. I also like challenges like learning a new language or a new programming language.
 
