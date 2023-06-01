@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I´am Christián 👋
+
+### Who I am: 
+- I am a guy who likes to program and solve common problems that can be solved through programming. I also like challenges like learning a new language or a new programming language.
 
 ### You can find me 🌎
 
