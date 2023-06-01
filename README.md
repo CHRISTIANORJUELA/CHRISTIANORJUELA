@@ -13,6 +13,8 @@
 - corjuela1030@cue.edu.co
 - +57 3197164998
 
+### About my work and responsibilities
+
 - 🔭 I’m currently working on **Nuclear Project**
 
 - 🌱 I’m currently learning **React , Django**
