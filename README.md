@@ -8,7 +8,6 @@
 - I am a guy who likes to program and solve common problems that can be solved through programming. I also like challenges like learning a new language or a new programming language.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHRISTIANORJUELA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
